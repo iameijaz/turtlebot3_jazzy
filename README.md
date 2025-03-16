@@ -1,3 +1,7 @@
+## Just run the following command if you get the missing pkg error for dynamixel-sdk:
+
+sudo apt-get install ros-jazzy-dynamixel-sdk*
+and then git clone this, and cd to this folder and then colcon build. 
 # TurtleBot3 - Modified by WP Robotics
 
 ## West Point Robotics modifications were made to use this for course work
